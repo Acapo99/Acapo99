@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello! I'm Drea :)
 
-<!--
-**Acapo99/Acapo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👩‍💻 I'm a passionate developer who loves 3D, coding, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 Currently, I'm focusing on learning C and Anatomy.
+
+💡 I enjoy tackling challenges and creating creative solutions.
+
+## Technical Skills
+
+- **Languages**: C.
+- **Tools**: Git, VS Code, and more.
+
+## Featured Projects
+
+🌸 Here are some of the projects:
+
+- **[42piscine]**: A brief description of the project. [Repository Link](URL)
+- **[42piscine-reloaded]**: A brief description of the project. [Repository Link](URL)
+- **[libft]**: A brief description of the project. [Repository Link](URL)
+
+## Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrea-oliver-588887242/)
+- 🌐 [Portfolio](https://www.artstation.com/juno_oliver)
+
+---
+
+✨ If you like my work, feel free to star my repositories and follow me for more updates!
